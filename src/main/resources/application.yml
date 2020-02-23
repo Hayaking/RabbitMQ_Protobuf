@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+#    host: locall
+#    port:
+    username: guest
+    password: guest
